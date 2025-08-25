@@ -85,13 +85,6 @@ export const marketStats = {
   demand: "Untapped"
 };
 
-export const companyStats = {
-  monthlyOrders: "10,000",
-  monthlyRevenue: "₹15 Lakh",
-  grossMargin: "~20%",
-  yearlyRevenue: "₹1.8 CR"
-};
-
 export const subscriptionPlans = [
   {
     title: "Fixed Monthly Bottle Plan (Retainer Model)",
