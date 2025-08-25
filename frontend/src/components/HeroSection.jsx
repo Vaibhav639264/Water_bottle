@@ -73,8 +73,8 @@ const HeroSection = () => {
               <div className="text-blue-100">Monthly Target</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
-              <div className="text-3xl font-bold text-cyan-400 mb-2">₹1.8 CR</div>
-              <div className="text-blue-100">Yearly Revenue</div>
+              <div className="text-3xl font-bold text-cyan-400 mb-2">₹15 Lakh</div>
+              <div className="text-blue-100">Monthly Revenue</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
               <div className="text-3xl font-bold text-cyan-400 mb-2">Tier 2/3</div>
