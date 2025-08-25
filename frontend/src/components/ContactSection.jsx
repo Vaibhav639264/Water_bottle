@@ -73,9 +73,9 @@ const ContactSection = () => {
               <div className="flex items-start space-x-4">
                 <Mail className="h-6 w-6 text-blue-600 mt-1" />
                 <div>
-                  <h4 className="font-semibold text-gray-900">Email</h4>
+                  <h4 className="font-semibold text-gray-900">Email & Website</h4>
                   <p className="text-gray-600">info@luxesprings.com</p>
-                  <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
+                  <p className="text-sm text-gray-500">www.luxesprings.com (Coming Soon)</p>
                 </div>
               </div>
 
