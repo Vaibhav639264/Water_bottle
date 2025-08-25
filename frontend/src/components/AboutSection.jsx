@@ -73,21 +73,47 @@ const AboutSection = () => {
 
         {/* Market Opportunity */}
         <div className="bg-blue-50 p-8 rounded-2xl mb-16">
-          <h3 className="text-2xl font-bold text-gray-900 mb-6">Market Opportunity</h3>
-          <ul className="space-y-4">
-            <li className="flex items-start space-x-3">
-              <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-              <span className="text-gray-700">Generic bottled water lacks brand customization for events and hospitality</span>
-            </li>
-            <li className="flex items-start space-x-3">
-              <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-              <span className="text-gray-700">Limited access to premium, eco-conscious bottled water with personalized branding</span>
-            </li>
-            <li className="flex items-start space-x-3">
-              <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-              <span className="text-gray-700">Rising demand for lifestyle-centric, branded products for weddings and hotels</span>
-            </li>
-          </ul>
+          <h3 className="text-2xl font-bold text-gray-900 mb-6">The Opportunity</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+              <h4 className="text-lg font-semibold text-gray-900 mb-4">Current Market Gaps:</h4>
+              <ul className="space-y-3">
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Generic bottled water lacks brand customization for events, hospitality, and corporate needs in 3-tier cities</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Limited access to premium, eco-conscious bottled water with personalized branding</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Rising demand for lifestyle-centric, branded products for weddings, hotels, and retail in small cities</span>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="text-lg font-semibold text-gray-900 mb-4">Why Luxesprings Stands Out:</h4>
+              <ul className="space-y-3">
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-cyan-400 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Premium, fresh-tasting natural mineral water sourced from certified vendors</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-cyan-400 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Custom-designed, high-quality labels that act as subtle, premium brand advertisements</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-cyan-400 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Flexible size options to suit different event and hospitality needs</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-cyan-400 rounded-full mt-2"></div>
+                  <span className="text-gray-700">Sustainability-driven packaging options to align with your brand's eco values</span>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
 
         {/* Our Values */}
