@@ -129,27 +129,6 @@ const AboutSection = () => {
             ))}
           </div>
         </div>
-
-        {/* Stats */}
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
-          <div className="text-center">
-            <div className="text-4xl font-bold text-blue-600 mb-2">10,000</div>
-            <div className="text-gray-700">Monthly Orders</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-blue-600 mb-2">₹15 Lakh</div>
-            <div className="text-gray-700">Monthly Revenue</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-blue-600 mb-2">~20%</div>
-            <div className="text-gray-700">Gross Margin</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-blue-600 mb-2">₹1.8 CR</div>
-            <div className="text-gray-700">Yearly Revenue</div>
-          </div>
-        </div>
-
         {/* Target Audiences */}
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-gray-900 text-center mb-12">Target Audiences We Serve</h3>
