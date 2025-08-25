@@ -118,6 +118,6 @@ export const subscriptionPlans = [
 
 export const subscriptionAddOns = [
   "Label design refresh service every 6 months",
-  "Limited-edition festive labels for special occasions",
+  "Limited-edition festive labels during Diwali, New Year, or wedding season", 
   "Dedicated account manager for subscription clients"
 ];
