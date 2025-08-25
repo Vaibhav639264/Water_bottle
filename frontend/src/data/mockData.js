@@ -73,7 +73,7 @@ export const contactInfo = {
 
 export const stats = {
   monthlyTarget: "10K+",
-  yearlyRevenue: "₹1.8 CR",
+  monthlyRevenue: "₹15 Lakh",
   citiesFocus: "Tier 2/3",
   quality: "Premium"
 };
