@@ -8,8 +8,8 @@ const HeroSection = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1655079343782-f0fc4704753e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njl8MHwxfHNlYXJjaHwzfHxwcmVtaXVtJTIwd2F0ZXIlMjBib3R0bGVzfGVufDB8fHx8MTc1NjExMDk3N3ww&ixlib=rb-4.1.0&q=85"
-          alt="Premium Water Bottles"
+          src="https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
+          alt="Luxe Springs Water Bottles"
           className="w-full h-full object-cover opacity-20"
         />
       </div>
