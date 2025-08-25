@@ -40,19 +40,19 @@ export const features = [
     id: 1,
     title: "Premium Natural Mineral Water",
     description: "Fresh-tasting natural mineral water sourced from certified vendors with strict quality control.",
-    image: "https://images.unsplash.com/photo-1655079343782-f0fc4704753e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njl8MHwxfHNlYXJjaHwzfHxwcmVtaXVtJTIwd2F0ZXIlMjBib3R0bGVzfGVufDB8fHx8MTc1NjExMDk3N3ww&ixlib=rb-4.1.0&q=85"
+    image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
   },
   {
     id: 2,
     title: "Custom Label Design",
     description: "High-quality, waterproof custom labels with matte or gloss finish options that act as premium brand advertisements.",
-    image: "https://images.unsplash.com/photo-1695793303287-d5f4005ed721?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njl8MHwxfHNlYXJjaHwyfHxwcmVtaXVtJTIwd2F0ZXIlMjBib3R0bGVzfGVufDB8fHx8MTc1NjExMDk3N3ww&ixlib=rb-4.1.0&q=85"
+    image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
   },
   {
     id: 3,
     title: "Flexible Solutions",
     description: "Multiple size options and sustainability-driven packaging to suit different events and hospitality needs.",
-    image: "https://images.unsplash.com/photo-1596629095299-544ddf11b6f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NjZ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHdhdGVyJTIwYm90dGxlc3xlbnwwfHx8fDE3NTYxMTA5ODN8MA&ixlib=rb-4.1.0&q=85"
+    image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
   }
 ];
 
