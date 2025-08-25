@@ -7,19 +7,19 @@ const FeaturesSection = () => {
       icon: <Droplets className="h-12 w-12 text-blue-500" />,
       title: "Premium Natural Mineral Water",
       description: "Fresh-tasting natural mineral water sourced from certified vendors with strict quality control.",
-      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
+      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/ypbroyzi_image1-Picsart-AiImageEnhancer.jpg"
     },
     {
       icon: <Award className="h-12 w-12 text-blue-500" />,
       title: "Custom Label Design",
       description: "High-quality, waterproof custom labels with matte or gloss finish options that act as premium brand advertisements.",
-      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
+      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/ypbroyzi_image1-Picsart-AiImageEnhancer.jpg"
     },
     {
       icon: <Package className="h-12 w-12 text-blue-500" />,
       title: "Flexible Solutions",
       description: "Multiple size options and sustainability-driven packaging to suit different events and hospitality needs.",
-      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/6pnwnn35_image2.jpg"
+      image: "https://customer-assets.emergentagent.com/job_aquaflow-replica/artifacts/ypbroyzi_image1-Picsart-AiImageEnhancer.jpg"
     }
   ];
 
