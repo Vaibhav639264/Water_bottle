@@ -94,25 +94,22 @@ export const companyStats = {
 
 export const subscriptionPlans = [
   {
-    title: "Fixed Monthly Bottle Plan",
-    description: "Commit to a minimum monthly order quantity at a discounted rate for 6 months.",
+    title: "Fixed Monthly Bottle Plan (Retainer Model)",
+    description: "Clients commit to a minimum monthly order quantity at a discounted rate for 6 months.",
     benefits: [
-      "Up to 5-10% off",
       "Discounted rates for bulk orders",
       "Predictable monthly supply",
       "6-month commitment",
       "Ideal for regular needs"
     ],
-    idealFor: "Hotels, showrooms, gyms, salons, and offices"
+    idealFor: "Hotels, showrooms, gyms, salons, and offices with predictable monthly water needs"
   },
   {
     title: "Prepaid Bulk Subscription",
-    description: "Pay upfront for large volume delivered in scheduled installments over 6 months.",
+    description: "Clients pay upfront for a large volume of bottles to be delivered in scheduled instalments over 6 months.",
     benefits: [
-      "Up to 15-20% off",
-      "Higher discount rates",
-      "Flexible delivery schedule",
-      "Storage optimization",
+      "Higher discount (5-70%)",
+      "Storage flexibility — delivered in batches",
       "Early renewal bonus"
     ],
     idealFor: "Large hotels, corporate parks, caterers"
