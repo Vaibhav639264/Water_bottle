@@ -15,9 +15,9 @@ const HeroSection = () => {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center min-h-[80vh]">
-          {/* Left Content */}
-          <div className="text-white">
+        <div className="flex justify-center items-center min-h-[80vh]">
+          {/* Content */}
+          <div className="text-white text-center max-w-4xl">
             <h1 className="text-5xl lg:text-6xl font-bold leading-tight mb-6">
               Premium Custom-Labeled Water Solutions
             </h1>
@@ -29,7 +29,7 @@ const HeroSection = () => {
             </p>
 
             {/* Features List */}
-            <div className="grid grid-cols-2 gap-4 mb-8">
+            <div className="grid grid-cols-2 gap-4 mb-8 max-w-2xl mx-auto">
               <div className="flex items-center space-x-3">
                 <Check className="h-5 w-5 text-cyan-400" />
                 <span className="text-blue-100">Custom branded water bottles</span>
@@ -49,7 +49,7 @@ const HeroSection = () => {
             </div>
 
             {/* CTA Buttons */}
-            <div className="flex space-x-4">
+            <div className="flex justify-center space-x-4">
               <Link 
                 to="/contact"
                 className="bg-cyan-400 text-black px-8 py-3 rounded-lg font-semibold hover:bg-cyan-300 transition-colors inline-flex items-center space-x-2"
@@ -63,26 +63,6 @@ const HeroSection = () => {
               >
                 View Products
               </Link>
-            </div>
-          </div>
-
-          {/* Right Stats Cards */}
-          <div className="grid grid-cols-2 gap-6">
-            <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
-              <div className="text-3xl font-bold text-cyan-400 mb-2">10K+</div>
-              <div className="text-blue-100">Monthly Target</div>
-            </div>
-            <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
-              <div className="text-3xl font-bold text-cyan-400 mb-2">₹15 Lakh</div>
-              <div className="text-blue-100">Monthly Revenue</div>
-            </div>
-            <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
-              <div className="text-3xl font-bold text-cyan-400 mb-2">Tier 2/3</div>
-              <div className="text-blue-100">Cities Focus</div>
-            </div>
-            <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
-              <div className="text-3xl font-bold text-cyan-400 mb-2">Premium</div>
-              <div className="text-blue-100">Quality</div>
             </div>
           </div>
         </div>
