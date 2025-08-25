@@ -108,7 +108,6 @@ const Footer = () => {
                 alt="Emergent"
                 className="h-6 w-6 rounded"
               />
-              <span className="text-sm">Made with Emergent</span>
             </div>
           </div>
         </div>
