@@ -85,10 +85,10 @@ export const marketStats = {
 };
 
 export const companyStats = {
-  monthlyOrders: "10,000+",
-  revenueTarget: "₹1.8 CR",
-  citiesServed: "Tier 2/3",
-  teamMembers: "4"
+  monthlyOrders: "10,000",
+  monthlyRevenue: "₹15 Lakh",
+  grossMargin: "~20%",
+  yearlyRevenue: "₹1.8 CR"
 };
 
 export const subscriptionPlans = [
