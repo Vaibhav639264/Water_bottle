@@ -15,16 +15,12 @@ const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Fixed Monthly Plan */}
             <div className="bg-gray-800 p-8 rounded-xl">
-              <h4 className="text-xl font-bold mb-4">Fixed Monthly Bottle Plan</h4>
+              <h4 className="text-xl font-bold mb-4">Fixed Monthly Bottle Plan (Retainer Model)</h4>
               <p className="text-gray-300 mb-6">
-                Commit to a minimum monthly order quantity at a discounted rate for 6 months.
+                Clients commit to a minimum monthly order quantity at a discounted rate for 6 months.
               </p>
               
               <ul className="space-y-3 mb-6">
-                <li className="flex items-center space-x-3">
-                  <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
-                  <span className="text-gray-300">Up to 5-10% off</span>
-                </li>
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
                   <span className="text-gray-300">Discounted rates for bulk orders</span>
@@ -44,7 +40,7 @@ const Footer = () => {
               </ul>
               
               <div className="text-sm text-gray-400">
-                <strong>Ideal For:</strong> Hotels, showrooms, gyms, salons, and offices
+                <strong>Ideal For:</strong> Hotels, showrooms, gyms, salons, and offices with predictable monthly water needs
               </div>
             </div>
 
