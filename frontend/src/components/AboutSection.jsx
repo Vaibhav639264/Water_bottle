@@ -151,7 +151,7 @@ const AboutSection = () => {
         </div>
 
         {/* Target Audiences */}
-        <div>
+        <div className="mb-16">
           <h3 className="text-3xl font-bold text-gray-900 text-center mb-12">Target Audiences We Serve</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {audiences.map((audience, index) => (
@@ -160,6 +160,25 @@ const AboutSection = () => {
                 <p className="text-gray-600 text-sm leading-relaxed">{audience.description}</p>
               </div>
             ))}
+          </div>
+        </div>
+
+        {/* Operations & Team */}
+        <div className="bg-gradient-to-r from-blue-50 to-cyan-50 p-8 rounded-2xl">
+          <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">Operations & Team</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+            <div className="bg-white p-6 rounded-xl">
+              <h4 className="font-semibold text-gray-900 mb-2">Production</h4>
+              <p className="text-gray-600 text-sm">Outsourced to certified facilities with strict quality control</p>
+            </div>
+            <div className="bg-white p-6 rounded-xl">
+              <h4 className="font-semibold text-gray-900 mb-2">Distribution</h4>
+              <p className="text-gray-600 text-sm">Local logistics partners with scope for pan-India delivery</p>
+            </div>
+            <div className="bg-white p-6 rounded-xl">
+              <h4 className="font-semibold text-gray-900 mb-2">Team</h4>
+              <p className="text-gray-600 text-sm">2 Directors & 2 Staff members managing branding, logistics, and client coordination</p>
+            </div>
           </div>
         </div>
       </div>
