@@ -48,25 +48,17 @@ const Footer = () => {
             <div className="bg-gray-800 p-8 rounded-xl">
               <h4 className="text-xl font-bold mb-4">Prepaid Bulk Subscription</h4>
               <p className="text-gray-300 mb-6">
-                Pay upfront for large volume delivered in scheduled installments over 6 months.
+                Clients pay upfront for a large volume of bottles to be delivered in scheduled instalments over 6 months.
               </p>
               
               <ul className="space-y-3 mb-6">
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
-                  <span className="text-gray-300">Up to 15-20% off</span>
+                  <span className="text-gray-300">Higher discount (5-70%)</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
-                  <span className="text-gray-300">Higher discount rates</span>
-                </li>
-                <li className="flex items-center space-x-3">
-                  <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
-                  <span className="text-gray-300">Flexible delivery schedule</span>
-                </li>
-                <li className="flex items-center space-x-3">
-                  <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
-                  <span className="text-gray-300">Storage optimization</span>
+                  <span className="text-gray-300">Storage flexibility — delivered in batches</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
