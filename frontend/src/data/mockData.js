@@ -62,6 +62,7 @@ export const contactInfo = {
     { number: "+91 99865 12102", person: "Harshit Innani - Director" }
   ],
   email: "info@luxesprings.com",
+  website: "www.luxesprings.com (Coming Soon)",
   location: "Raichur, Karnataka, India",
   social: "@luxesprings",
   businessHours: {
