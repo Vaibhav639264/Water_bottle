@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
-                <span className="text-gray-300 text-sm">Limited-edition festive labels for special occasions</span>
+                <span className="text-gray-300 text-sm">Limited-edition festive labels during Diwali, New Year, or wedding season</span>
               </li>
               <li className="flex items-center space-x-3">
                 <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
